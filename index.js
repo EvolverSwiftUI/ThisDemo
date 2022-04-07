@@ -169,7 +169,7 @@ const bike = {
 bike.color = "black";
 console.log(bike);
 
-bike = {};
+// bike = {};
 // console.log(bike); ===> Type error
 
 // Summary:
