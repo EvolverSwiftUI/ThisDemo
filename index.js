@@ -100,3 +100,21 @@ let car6 = new Car1("white", "Kia");
 car6.start();
 // here this refers car5 instance.
 
+// immutable vs mutable
+/* 
+All primitive type values are immutable.
+All objects are mutables.
+
+Primitive Types:
+    1. Number
+    2. String
+    3. Boolean
+    4. Symbol
+    5. Undefined
+
+Objects:
+    1. Object
+    2. Array
+    3. Function    
+*/
+
